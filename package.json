@@ -1,0 +1,37 @@
+{
+  "name": "express-ts",
+  "version": "1.0.0",
+  "description": "Starter for exppress tyescript applications I build using a similar starting point",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test",
+    "start": "",
+    "dev": "",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tamakunay/express-ts.git"
+  },
+  "keywords": [
+    "Express",
+    "Typescript",
+    "Testing",
+    "Jest"
+  ],
+  "author": "Tafadzwa Makuyana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamakunay/express-ts/issues"
+  },
+  "homepage": "https://github.com/tamakunay/express-ts#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/typescript": "^2.0.0",
+    "nodemon": "^3.1.0",
+    "typescript": "^5.4.4"
+  }
+}
